@@ -5,6 +5,8 @@
   box-sizing: border-box;
 }
 
+font-family: 'Fredoka', sans-serif;
+
 /* COMMON */
 /* CLEARFIX */
 .clearfix::after {
@@ -42,9 +44,18 @@ section {
 .card {
   float: left;
   background-color: #0f0e17;
+  width: calc(100% -100px);
 }
 
 img {
   width: 100px;
   float: left;
+}
+
+.content {
+  float: left;
+}
+
+.email {
+  color: #6ecbe3;
 }
