@@ -55,6 +55,7 @@ img {
 .content {
   float: left;
   padding: 15px 20px 0px 5px;
+  text-align: left;
 }
 
 .email {
