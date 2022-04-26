@@ -39,9 +39,11 @@ section {
 .col {
   width: calc(100% / 3);
   float: left;
+  color: white;
+  padding: 20px;
 }
 
-/* .card {
-  width: calc(100% -110px);
+.card {
   float: left;
-} */
+  background-color: #0f0e17;
+}
