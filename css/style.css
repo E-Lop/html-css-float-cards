@@ -20,29 +20,28 @@
   text-align: center;
 }
 
+img {
+  width: 100px;
+}
+
 h1 {
   color: #e53170;
   margin-top: 30px;
 }
+p {
+  margin: 20px 0px;
+}
 
+section {
+  padding: 20px 0px;
+}
 /* colonna */
 .col {
   width: calc(100% / 3);
   float: left;
 }
 
-.blue {
-  background-color: blue;
-}
-
-.red {
-  background-color: red;
-}
-
-.green {
-  background-color: green;
-}
-
-.aqua {
-  background-color: aqua;
-}
+/* .card {
+  width: calc(100% -110px);
+  float: left;
+} */
