@@ -44,7 +44,7 @@ section {
 .card {
   float: left;
   background-color: #0f0e17;
-  width: calc(100% -100px);
+  width: 100%;
 }
 
 img {
