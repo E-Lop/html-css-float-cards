@@ -1,0 +1,19 @@
+/* RESET */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* container generale centrato */
+.container {
+  width: 70%;
+  margin: auto;
+  background-color: lightblue;
+  text-align: center;
+}
+
+h1 {
+  color: #e53170;
+  margin-top: 30px;
+}
